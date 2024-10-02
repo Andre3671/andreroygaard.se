@@ -27,7 +27,7 @@ export default {
 <img id="image" src="/src/assets/bild.jpg" />
  <h3 class="introtext" style="font-size: 25px;">Välkommen till min portfolio!</h3> 
 <div id="textcontainer">
-  <p class="introtext" > André är en <span style="color: #006817;"><b>{{currentWord}}</b></span> som brinner för det han gör och älskar att ta sig an nya utmaningar</p>
+  <p class="introtext" > André  är en <span style="color: #006817;"><b>{{currentWord}}</b></span> som brinner för det han gör och älskar att ta sig an nya utmaningar</p>
 </div>
 
   
