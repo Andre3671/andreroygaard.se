@@ -1,12 +1,14 @@
 <script setup>
-import TheWelcome from '../components/TheWelcome.vue'
-import Theicons from '../components/WelcomeItem.vue'
+import Intro from '../components/Intro.vue'
+import Theicons from '../components/Icons.vue'
+import projects from '../components/projects.vue'
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <Intro />
     <Theicons/>
+    <projects/>
   </main>
 </template>
 <style>

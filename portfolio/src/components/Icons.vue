@@ -16,7 +16,7 @@ import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
   display: flex;
   justify-content: space-between;
   width: 10%;
-  margin-top: 5rem;
+  margin-top: 1rem;
 }
 .icon{
   color: whitesmoke;

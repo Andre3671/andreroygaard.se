@@ -12,12 +12,15 @@ import { RouterLink, RouterView } from 'vue-router'
       <nav>
         <RouterLink to="/">Hem</RouterLink>
         <!-- <RouterLink to="/about">Projekt</RouterLink> -->
-        <RouterLink>Kontakt(WIP)</RouterLink>
+        <!-- <RouterLink to="/contact">Kontakt</RouterLink> -->
       </nav>
-      <div id="darkmode">
+      <!-- <div id="darkmode">
         <span><FontAwesomeIcon icon="sun" size="xl" /> </span>
-
-      </div>
+   
+      </div> -->
+      <!-- <h1 class="text-3xl font-bold underline">
+    Hello world!
+  </h1> -->
     </header>
 
 
@@ -31,7 +34,7 @@ import { RouterLink, RouterView } from 'vue-router'
   height: 100%;
   margin: 0;
   padding: 0;
-  
+ 
 }
 #header_text{
   font-size: 30px;
