@@ -12,7 +12,7 @@ export default{
     methods: {
         sendEmail(){
             Email.send({
-                SecureToken: "bf866444-8293-4ace-92f8-a55c32f281c9",
+                
                 To:"andre.roygaard@gmail.com",
                 From:this.email,
                 Subject:this.subject,
