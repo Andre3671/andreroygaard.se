@@ -8,7 +8,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore",
-     "lint:css": "stylelint '**/*.css' '**/*.vue'"
+    "lint:css": "stylelint '**/*.css' '**/*.vue'"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.6.0",
@@ -16,7 +16,9 @@
     "@fortawesome/free-regular-svg-icons": "^6.6.0",
     "@fortawesome/free-solid-svg-icons": "^6.6.0",
     "@fortawesome/vue-fontawesome": "^3.0.8",
+    "@vueuse/core": "^12.3.0",
     "vue": "^3.4.29",
+    "vue-i18n": "^10.0.5",
     "vue-router": "^4.3.3"
   },
   "devDependencies": {

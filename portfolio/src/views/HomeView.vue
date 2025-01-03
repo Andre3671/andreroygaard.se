@@ -8,7 +8,7 @@ import projects from '../components/projects.vue'
   <main>
     <Intro />
     <Theicons/>
-    <!-- <projects/> -->
+    <projects/>
   </main>
 </template>
 <style>
